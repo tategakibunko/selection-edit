@@ -1,3 +1,5 @@
+// url: https://github.com/tategakibunko/selection-edit
+// license: MIT
 var SelectionEdit = (function(){
   var _is_ie = (function(ua){
     return ua.indexOf("msie") !== -1 || ua.indexOf("trident") !== -1;
